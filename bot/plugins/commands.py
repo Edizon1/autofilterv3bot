@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                           '☯join our channel☯', url=https://t.me/malayalammovies639"
+                           '☯join our channel☯', url="https://t.me/malayalammovies639"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '☯Join our channel☯', url="https://t.me/malayalammovies639"
                                 )
                         ]
                     ]
