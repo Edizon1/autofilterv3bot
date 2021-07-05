@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>𝘼𝙢 𝘾𝙚𝙧𝙨𝙚𝙞 𝘼𝙪𝙩𝙤𝙛𝙞𝙡𝙩𝙚𝙧_𝙗𝙤𝙩
+<i>
 I never did anything by accident, nor did any of my inventions come by accident; they came by work."💮
 Join our channel
 @malayalammovies639
