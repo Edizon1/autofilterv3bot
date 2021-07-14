@@ -8,7 +8,7 @@ class Translation(object):
 <i>
 I never did anything by accident, nor did any of my inventions come by accident; they came by work."💮
 Join our channel
-@malayalammovies639
+@malayalammoviesD
 </i>"""    
     
     HELP_TEXT = """
@@ -41,7 +41,7 @@ Join our channel
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
            
-@malayalammovies639
+@malayalammoviesD
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
