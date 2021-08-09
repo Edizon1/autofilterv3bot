@@ -30,15 +30,15 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = caption = f"{file_name} \n GrouP ♻️ :-      
+                caption = caption = f"{file_name} \n GrouP ♻ :-      
 @malayalammoviestg1
 
-SerieS ♻️ :- 
+SerieS ♻ :- 
 @filimfiles10
 
-Movie Suggestion ♻️:- @mallumoviesuggest
+Movie Suggestion ♻:- @mallumoviesuggest
 
-ChanneL♻️:- 
+ChanneL♻:- 
 @malayalammoviesD",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
