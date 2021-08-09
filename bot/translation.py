@@ -6,9 +6,10 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>
-I never did anything by accident, nor did any of my inventions come by accident; they came by work."💮
-Join our channel
-@malayalammoviesD
+I am A advance Auto filter Bot Working For This Group ➡@malayalammoviestg1
+He is My മൊയലാളി  @Edizon2 🏵
+
+
 </i>"""    
     
     HELP_TEXT = """
