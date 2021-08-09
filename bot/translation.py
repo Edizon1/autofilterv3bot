@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-"""<b>
+{}!!</b>
 I am A advance Auto filter Bot Working For This Group ↙️@malayalammoviestg1
                       &
 He is My മൊയലാളി😁  @Edizon2 🏃‍♂️
