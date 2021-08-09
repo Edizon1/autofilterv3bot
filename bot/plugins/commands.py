@@ -91,10 +91,6 @@ async def start(bot, update):
     buttons = [[
         InlineKeyboardButton('🎪 𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 🎪', url='https://t.me/malayalammoviestg1'),
         InlineKeyboardButton('♻ 𝗦𝗛𝗔𝗥𝗘 ♻', url ='https://t.me/share/url?url=https%3A//t.me/malayalammoviesD')
-    ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
-    ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
