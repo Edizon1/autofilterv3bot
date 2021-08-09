@@ -6,9 +6,9 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <b>
-I am A advance Auto filter Bot Working For This Group ↙️@malayalammoviestg1
+{I am A advance Auto filter Bot Working For This Group ↙️@malayalammoviestg1
                       &
-He is My മൊയലാളി😁  @Edizon2 🏃‍♂️
+He is My മൊയലാളി😁  @Edizon2 🏃‍♂️}!!</b>
 
 
 </i>"""    
